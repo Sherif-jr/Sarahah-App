@@ -1,0 +1,6 @@
+.btn:disabled {
+  pointer-events: all;
+}
+.btn:disabled:hover {
+  cursor: not-allowed;
+}
